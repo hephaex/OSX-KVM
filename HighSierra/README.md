@@ -35,7 +35,7 @@ SVM is required.
   creation.
 
   ```
-  git clone https://github.com/kholia/OSX-KVM.git
+  git clone https://github.com/hephaex/OSX-KVM.git
   ```
 
 * Run the ISO creation script `create_iso_highsierra.sh` included in this
@@ -62,7 +62,7 @@ SVM is required.
 
   sudo apt-get build-dep qemu
 
-  git clone https://github.com/kholia/qemu.git
+  git clone https://github.com/hephaex/qemu.git
 
   cd qemu
 
