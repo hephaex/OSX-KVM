@@ -33,7 +33,7 @@ Intel VT-x / AMD SVM is required.
   creation.
 
   ```
-  git clone https://github.com/kholia/OSX-KVM.git
+  git clone https://github.com/hephaex/OSX-KVM.git
   ```
 
 * Run the ISO creation script `create_install_iso.sh` included in this
